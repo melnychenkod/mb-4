@@ -1,0 +1,9 @@
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\bin\Debug\lab06.exe.config
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\bin\Debug\lab06.exe
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\bin\Debug\lab06.pdb
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\obj\Debug\lab06.csprojAssemblyReference.cache
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\obj\Debug\lab06.exe
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\obj\Debug\lab06.pdb
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\bin\Debug\lab06lib.dll
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\bin\Debug\lab06lib.pdb
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06\obj\Debug\lab06.csproj.CopyComplete

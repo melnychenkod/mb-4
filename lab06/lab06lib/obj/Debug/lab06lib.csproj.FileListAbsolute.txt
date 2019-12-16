@@ -1,0 +1,4 @@
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06lib\bin\Debug\lab06lib.dll
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06lib\bin\Debug\lab06lib.pdb
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06lib\obj\Debug\lab06lib.dll
+C:\Users\SorrowfulBlackout\source\repos\lab06\lab06lib\obj\Debug\lab06lib.pdb
